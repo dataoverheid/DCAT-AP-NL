@@ -1,6 +1,8 @@
 Namespaces
 ==========
 
+De URIs zijn gespecificeerd als q-names ([namespace alias]:[term]). Daarbij zijn de volgende namespace aliassen als prefix gebruikt:
+
 +------------+---------------------------------------------+
 | Alias      | Namespace                                   |
 +============+=============================================+
