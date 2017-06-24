@@ -11,8 +11,8 @@ Bij het vaststellen van het Nederlands toepassingsprofiel voor datasets is er re
 2. ISO 19115 en ISO 19119 zijn standaarden voor metadata van Geo-informatie en geo-services. Deze standaarden worden gehanteerd door het NGR volgens het Nederlandse toepassingsprofiel van ISO 19115 en ISO 19119 [3]_.
 3. OWMS 4.0, de Overheidbrede Web Metadata Standaard is het Nederlandse toepassingsprofiel van Dublin Core. Het is een standaard voor metadata van informatieobjecten van de Nederlandse overheid op internet.
 
-DCAT-AP-NL
-==========
+Het Nederlands toepassingsprofiel
+=================================
 
 Het Nederlands toepassingsprofiel bevat:
 
