@@ -31,11 +31,11 @@ Het Nederlands toepassingsprofiel bevat:
 - Een mapping van het metadata model van de Nederlandse metadataprofielen op ISO 19115 en ISO 19119 naar DCAT;
 - Een mapping van OWMS (Dublin Core) naar DCAT.
 
-1.3 Methodologie
-----------------
+Methodologie
+------------
 
-1.3.1 Uitgangspunten
---------------------
+Uitgangspunten
+--------------
 
 - Waar mogelijk worden de specificaties van DCAT en DCAT-AP-EU gevolgd.
 - Het toepassingsprofiel houdt rekening met specificaties in andere standaarden voor Datasets, met name die van het Nederlands toepassingsprofiel voor Geo-data: ISO 19115.
@@ -43,8 +43,8 @@ Het Nederlands toepassingsprofiel bevat:
 - Op data.overheid.nl, het Open Data portaal van de Nederlandse overheid worden referentiegegevens beschikbaar gesteld. Toepassers maken gebruik van deze referentiegegevens.
 - Applicaties die conform DCAT-AP-NL zijn opgezet kunnen onderling beschrijvingen van Datasets aanbieden en ontvangen zoals beschreven in de sectie ‘Terminologie’. In combinatie met informatie op data.overheid.nl kunnen applicaties conform DCAT-AP-EU data aanbieden. Dit betekent dat bijvoorbeeld de datacatalogus op data.overheid.nl wel DCAT-AP-EU compliant kan zijn, maar dat er ook DCAT-AP-NL compliant applicaties kunnen zijn die niet DCAT-AP-EU compliant zijn.
 
-1.3.2 Gevolgde werkwijze
-------------------------
+Gevolgde werkwijze
+------------------
 
 Bij het opstellen van DCAT-AP-NL zijn we als volgt te werk gegaan:
 
