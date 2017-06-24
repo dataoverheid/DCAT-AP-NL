@@ -27,5 +27,6 @@ De documentatie is open source en `beschikbaar op GitHub`_. De informatie is ond
   :caption: Implementatie
 
   waardelijsten
+  namespaces
 
 .. _beschikbaar op GitHub: https://github.com/jcid/dcat-ap-nl
