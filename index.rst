@@ -9,21 +9,23 @@ Welkom op de DCAT-AP-NL documentatie
 :Contact: info@jcid.nl
 :Organization: `Kennis- en Exploitatiecentrum Officiële Overheidspublicaties (KOOP) <http://koop.overheid.nl/over-koop>`__
 
-De documentatie is open source, en `beschikbaar op GitHub`_.
+De documentatie is open source en `beschikbaar op GitHub`_. De informatie is onderverdeeld in de volgende hoofdstukken:
 
-.. _beschikbaar op GitHub: https://github.com/jcid/dcat-ap-nl
-
-De achtergrond informatie over DCAT-AP-NL is onderverdeeld in de volgende hoofdstukken:
+.. _achtergrond-informatie:
 
 .. toctree::
   :maxdepth: 2
+  :caption: Achtergrond informatie
 
   inleiding
   terminologie
 
-Informatie over de implementatie is ook beschikbaar:
+.. _implementatie:
 
 .. toctree::
   :maxdepth: 2
+  :caption: Implementatie
 
   waardelijsten
+
+.. _beschikbaar op GitHub: https://github.com/jcid/dcat-ap-nl
