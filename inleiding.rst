@@ -22,7 +22,7 @@ Het Nederlands toepassingsprofiel bevat:
 - Een mapping van OWMS (Dublin Core) naar DCAT.
 
 Methodologie
-------------
+============
 
 Uitgangspunten
 --------------
