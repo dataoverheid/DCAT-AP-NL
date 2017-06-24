@@ -9,35 +9,34 @@ In DCAT-AP-NL worden classes en properties gegroepeerd onder de kopjes ‘Mandat
 Classes
 -------
 - **Mandatory**
-	een aanbieder van een beschrijving van een Dataset MOET informatie over instanties van de class verstrekken.
+	een *aanbieder* van een beschrijving van een Dataset **moet** informatie over instanties van de class verstrekken.
 
-	een ontvanger van een beschrijving van een Dataset MOET informatie over instanties van de class kunnen verwerken
+	een *ontvanger* van een beschrijving van een Dataset **moet** informatie over instanties van de class kunnen verwerken
 
 - **Recommended**
-	een aanbieder van een beschrijving van een Dataset MOET informatie over instanties van de class verstrekken als deze beschikbaar is.
+	een *aanbieder* van een beschrijving van een Dataset **moet** informatie over instanties van de class verstrekken als deze beschikbaar is.
 
-	een ontvanger van een beschrijving van een Dataset MOET informatie over instanties van de class kunnen verwerken
+	een *ontvanger* van een beschrijving van een Dataset **moet** informatie over instanties van de class kunnen verwerken
 
 - **Optional**
-	een aanbieder van een beschrijving van een Dataset MAG informatie over instanties van de class verstrekken, maar is daartoe niet verplicht.
+	een *aanbieder* van een beschrijving van een Dataset **mag** informatie over instanties van de class verstrekken, maar is daartoe niet verplicht.
 
-	een ontvanger van een beschrijving van een Dataset MOET informatie over instanties van de class kunnen verwerken
+	een *ontvanger* van een beschrijving van een Dataset **moet** informatie over instanties van de class kunnen verwerken
 
 Property
 --------
 
 - **Mandatory**
-	een aanbieder van een beschrijving van een Dataset MOET informatie voor die property verstrekken.
+	een *aanbieder* van een beschrijving van een Dataset **moet** informatie voor die property verstrekken.
 
-	een ontvanger van een beschrijving van een Dataset MOET informatie voor die property kunnen verwerken
+	een *ontvanger* van een beschrijving van een Dataset **moet** informatie voor die property kunnen verwerken
 
 - **Recommended**
-	een aanbieder van een beschrijving van een Dataset MOET informatie voor die property verstrekken als deze beschikbaar is.
+	een *aanbieder* van een beschrijving van een Dataset **moet** informatie voor die property verstrekken als deze beschikbaar is.
 
-	een ontvanger van een beschrijving van een Dataset MOET informatie voor die property kunnen verwerken
+	een *ontvanger* van een beschrijving van een Dataset **moet** informatie voor die property kunnen verwerken
 
 - **Optional**
-	een aanbieder van een beschrijving van een Dataset MAG informatie voor die property verstrekken, maar is daartoe niet verplicht.
+	een *aanbieder* van een beschrijving van een Dataset **mag** informatie voor die property verstrekken, maar is daartoe niet verplicht.
 
-	een ontvanger van een beschrijving van een Dataset MOET informatie voor die property kunnen verwerken
-
+	een *ontvanger* van een beschrijving van een Dataset **moet** informatie voor die property kunnen verwerken
