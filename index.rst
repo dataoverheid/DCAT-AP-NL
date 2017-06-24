@@ -15,14 +15,6 @@ De documentatie is open source, en `beschikbaar op GitHub`_.
 
 De achtergrond informatie over DCAT-AP-NL is onderverdeeld in de volgende hoofdstukken:
 
-* :ref:`achtergrond-informatie`
-
-Informatie over de implementatie is ook beschikbaar:
-
-* :ref:`implementatie`
-
-.. _achtergrond-informatie:
-
 .. toctree::
   :maxdepth: 2
   :caption: Achtergrond informatie
@@ -30,7 +22,7 @@ Informatie over de implementatie is ook beschikbaar:
   inleiding
   terminologie
 
-.. _implementatie:
+Informatie over de implementatie is ook beschikbaar:
 
 .. toctree::
   :maxdepth: 2
