@@ -25,7 +25,7 @@ Informatie over de implementatie is ook beschikbaar:
 
 .. toctree::
   :maxdepth: 2
-  :caption: Achtergrond informatie DCAT-AP-NL
+  :caption: Achtergrond informatie
 
   inleiding
   terminologie
@@ -34,6 +34,6 @@ Informatie over de implementatie is ook beschikbaar:
 
 .. toctree::
   :maxdepth: 2
-  :caption: Implementatie van DCAT-AP-NL
+  :caption: Implementatie
 
   waardelijsten
