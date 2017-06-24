@@ -30,7 +30,7 @@ De URIs zijn gespecificeerd als q-names ([namespace alias]:[term]). Daarbij zijn
 +------------+---------------------------------------------+
 
 Namespace lookup - prefix.cc
-============================
+----------------------------
 
 De bedoeling van `deze dienst <https://prefix.cc/>`_ is het vereenvoudigen van een gemeenschappelijke taak in het werk van RDF-ontwikkelaars: het onthouden en opzoeken van URI-voorvoegsels.
 
