@@ -17,7 +17,6 @@ De achtergrond informatie over DCAT-AP-NL is onderverdeeld in de volgende hoofds
 
 .. toctree::
   :maxdepth: 2
-  :caption: Achtergrond informatie
 
   inleiding
   terminologie
@@ -26,6 +25,5 @@ Informatie over de implementatie is ook beschikbaar:
 
 .. toctree::
   :maxdepth: 2
-  :caption: Implementatie
 
   waardelijsten
