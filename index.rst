@@ -1,5 +1,5 @@
-Welcome to DCAT-AP-NL docs
-==========================
+Welkom op de DCAT-AP-NL documentatie
+====================================
 
 :Date: 2017-06-01
 :Authors:
