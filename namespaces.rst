@@ -1,3 +1,6 @@
+Namespaces
+==========
+
 +------------+---------------------------------------------+
 | Alias      | Namespace                                   |
 +============+=============================================+
@@ -23,3 +26,12 @@
 +------------+---------------------------------------------+
 | v:         | http://www.w3.org/2006/vcard/ns#            |
 +------------+---------------------------------------------+
+
+Namespace lookup
+================
+
+De bedoeling van deze dienst is het vereenvoudigen van een gemeenschappelijke taak in het werk van RDF-ontwikkelaars: het onthouden en opzoeken van URI-voorvoegsels.
+
+Je kunt de prefixen opzoeken in het zoekvak op de homepage of direct door URL's in de browserbalk te typen, zoals https://prefix.cc/foaf of https://prefix.cc/foaf,dcterms,dcat.file.json.
+
+https://prefix.cc/
