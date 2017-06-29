@@ -23,8 +23,8 @@ In development
 - http://api.data.overheid.nl:8000/v2.0.0/frequency.json
 - http://api.data.overheid.nl:8000/v2.0.0/languages.json
 - http://api.data.overheid.nl:8000/v2.0.0/organisations.json
--- http://api.data.overheid.nl:8000/v2.0.0/organisations-gemeente.json
--- http://api.data.overheid.nl:8000/v2.0.0/organisations-provincie.json
+  - http://api.data.overheid.nl:8000/v2.0.0/organisations-gemeente.json
+  - http://api.data.overheid.nl:8000/v2.0.0/organisations-provincie.json
 
 .. toctree::
   :maxdepth: 2
