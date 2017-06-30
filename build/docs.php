@@ -54,11 +54,11 @@ class docs
             '%s%sProperty: %sURI: %sRange: %sWaardelijst: %sUsage note: %sCardinality: %s',
             $property . PHP_EOL,
             self::createRstLineFromString($property) . PHP_EOL . PHP_EOL,
-            $property . PHP_EOL,
-            $object->field . PHP_EOL,
-            $object->nlRange . PHP_EOL,
-            $object->nlRangeURLv2 . PHP_EOL,
-            $usageNote . PHP_EOL,
+            $property . PHP_EOL . PHP_EOL,
+            $object->field . PHP_EOL . PHP_EOL,
+            $object->nlRange . PHP_EOL . PHP_EOL,
+            $object->nlRangeURLv2 . PHP_EOL . PHP_EOL,
+            $usageNote . PHP_EOL . PHP_EOL,
             $cardinality . PHP_EOL
         );
     }
@@ -89,11 +89,11 @@ class docs
             '%s%sProperty: %sURI: %sRange: %sWaardelijst: %sUsage note: %sCardinality: %s',
             $property . PHP_EOL,
             self::createRstLineFromString($property) . PHP_EOL . PHP_EOL,
-            $property . PHP_EOL,
-            $object->field . PHP_EOL,
-            $object->nlRange . PHP_EOL,
-            $object->nlRangeURLv2 . PHP_EOL,
-            $usageNote . PHP_EOL,
+            $property . PHP_EOL . PHP_EOL,
+            $object->field . PHP_EOL . PHP_EOL,
+            $object->nlRange . PHP_EOL . PHP_EOL,
+            $object->nlRangeURLv2 . PHP_EOL . PHP_EOL,
+            $usageNote . PHP_EOL . PHP_EOL,
             $cardinality . PHP_EOL
         );
     }
