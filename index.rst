@@ -26,6 +26,7 @@ De documentatie is open source en `beschikbaar op GitHub`_. De informatie is ond
   :maxdepth: 2
   :caption: Implementatie
 
+  properties
   waardelijsten
   namespaces
 
