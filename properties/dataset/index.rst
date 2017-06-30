@@ -3,7 +3,18 @@ Datasets
 
 .. toctree::
    :glob:
+   :caption: Mandatory
 
    mandatory/*
-   optional/*
+
+.. toctree::
+   :glob:
+   :caption: Recommended
+
    recommended/*
+
+.. toctree::
+   :glob:
+   :caption: Optional
+
+   optional/*
