@@ -2,8 +2,7 @@ Properties
 ==========
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
 
-	  properties-catalogus
-	  properties-dataset
-	  properties-distributie
+   properties-catalogus
+   properties/*
