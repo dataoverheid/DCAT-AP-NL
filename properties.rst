@@ -6,4 +6,4 @@ Properties
    :maxdepth: 2
 
    properties-catalogus
-   properties/*
+   properties/*/*
