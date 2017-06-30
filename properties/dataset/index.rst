@@ -2,6 +2,7 @@ Index
 =====
 
 .. toctree::
+   :glob:
 
    mandatory/*
    optional/*
