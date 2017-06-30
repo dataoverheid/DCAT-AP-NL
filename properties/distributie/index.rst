@@ -1,5 +1,5 @@
-Index
-=====
+Distributie
+===========
 
 .. toctree::
    :glob:

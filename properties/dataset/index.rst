@@ -1,5 +1,5 @@
-Index
-=====
+Datasets
+========
 
 .. toctree::
    :glob:
