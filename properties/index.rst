@@ -1,0 +1,7 @@
+Index
+=====
+
+.. toctree::
+
+   dataset/*
+   distributie/*
