@@ -2,6 +2,8 @@
 
 class docs
 {
+    const content = '%s%sProperty: %sVerplichting: %sURI: %sRange: %sWaardelijst: %sUsage note: %sCardinality: %s';
+
     /**
      * @param string   $type
      * @param stdClass $object
@@ -36,25 +38,31 @@ class docs
     public static function createRstDatasetPageFromObject(stdClass $object)
     {
         $property = $object->euProperty;
-        if ($object->euProperty === null) {
+        if ($property === null) {
             $property = $object->nlProperty;
         }
 
         $usageNote = $object->euUsageNote;
-        if ($object->euUsageNote === null) {
+        if ($usageNote === null) {
             $usageNote = $object->nlUsageNote;
         }
 
         $cardinality = $object->euCardinality;
-        if ($object->euCardinality === null) {
+        if ($cardinality === null) {
             $cardinality = $object->nlCardinality;
         }
 
+        $nlMandatoryOrRecommendedOrOptional = $object->nlMandatoryOrRecommendedOrOptional;
+        if ($nlMandatoryOrRecommendedOrOptional === null) {
+            $nlMandatoryOrRecommendedOrOptional = $object->euMandatoryOrRecommendedOrOptional;
+        }
+
         return sprintf(
-            '%s%sProperty: %sURI: %sRange: %sWaardelijst: %sUsage note: %sCardinality: %s',
+            self::content,
             $property . PHP_EOL,
             self::createRstLineFromString($property) . PHP_EOL . PHP_EOL,
             $property . PHP_EOL . PHP_EOL,
+            $nlMandatoryOrRecommendedOrOptional . PHP_EOL . PHP_EOL,
             $object->field . PHP_EOL . PHP_EOL,
             $object->nlRange . PHP_EOL . PHP_EOL,
             $object->nlRangeURLv2 . PHP_EOL . PHP_EOL,
@@ -85,11 +93,17 @@ class docs
             $cardinality = $object->nlCardinality;
         }
 
+        $nlMandatoryOrRecommendedOrOptional = $object->nlMandatoryOrRecommendedOrOptional;
+        if ($nlMandatoryOrRecommendedOrOptional === null) {
+            $nlMandatoryOrRecommendedOrOptional = $object->euMandatoryOrRecommendedOrOptional;
+        }
+
         return sprintf(
-            '%s%sProperty: %sURI: %sRange: %sWaardelijst: %sUsage note: %sCardinality: %s',
+            self::content,
             $property . PHP_EOL,
             self::createRstLineFromString($property) . PHP_EOL . PHP_EOL,
             $property . PHP_EOL . PHP_EOL,
+            $nlMandatoryOrRecommendedOrOptional . PHP_EOL . PHP_EOL,
             $object->field . PHP_EOL . PHP_EOL,
             $object->nlRange . PHP_EOL . PHP_EOL,
             $object->nlRangeURLv2 . PHP_EOL . PHP_EOL,
