@@ -3,6 +3,8 @@ Versie
 
 Property: Versie
 
+Verplichting: optional
+
 URI: adms:version
 
 Range: Vrije tekst

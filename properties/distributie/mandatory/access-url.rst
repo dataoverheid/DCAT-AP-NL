@@ -3,6 +3,8 @@ access URL
 
 Property: access URL
 
+Verplichting: mandatory
+
 URI: dcat:accessURL
 
 Range: URL

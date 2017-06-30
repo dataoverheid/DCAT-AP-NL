@@ -3,6 +3,8 @@ other identifier
 
 Property: other identifier
 
+Verplichting: optional
+
 URI: adms:identifier
 
 Range: 

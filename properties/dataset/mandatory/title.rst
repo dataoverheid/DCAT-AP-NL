@@ -3,6 +3,8 @@ title
 
 Property: title
 
+Verplichting: mandatory
+
 URI: dct:title
 
 Range: Vrije tekst

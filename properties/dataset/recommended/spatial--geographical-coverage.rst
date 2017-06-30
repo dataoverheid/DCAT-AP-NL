@@ -3,6 +3,8 @@ spatial/ geographical coverage
 
 Property: spatial/ geographical coverage
 
+Verplichting: recommended
+
 URI: dct:spatial
 
 Range: overheid:Spatial

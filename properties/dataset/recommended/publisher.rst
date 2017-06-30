@@ -3,6 +3,8 @@ publisher
 
 Property: publisher
 
+Verplichting: recommended
+
 URI: dct:publisher
 
 Range: donl:Agent

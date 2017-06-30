@@ -3,6 +3,8 @@ is version of
 
 Property: is version of
 
+Verplichting: optional
+
 URI: dct:isVersionOf
 
 Range: 

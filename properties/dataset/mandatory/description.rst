@@ -3,6 +3,8 @@ description
 
 Property: description
 
+Verplichting: mandatory
+
 URI: dct:description
 
 Range: Vrije tekst

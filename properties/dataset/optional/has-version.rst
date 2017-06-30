@@ -3,6 +3,8 @@ has version
 
 Property: has version
 
+Verplichting: optional
+
 URI: dct:hasVersion
 
 Range: 

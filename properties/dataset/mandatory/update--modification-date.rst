@@ -3,6 +3,8 @@ update/ modification date
 
 Property: update/ modification date
 
+Verplichting: mandatory
+
 URI: dct:modified
 
 Range: xsd:date

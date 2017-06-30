@@ -3,6 +3,8 @@ sample
 
 Property: sample
 
+Verplichting: optional
+
 URI: adms:sample
 
 Range: 

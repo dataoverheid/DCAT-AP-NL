@@ -3,6 +3,8 @@ landing page
 
 Property: landing page
 
+Verplichting: recommended
+
 URI: dcat:landingPage
 
 Range: url

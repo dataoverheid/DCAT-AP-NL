@@ -3,6 +3,8 @@ Registratiehouder
 
 Property: Registratiehouder
 
+Verplichting: mandatory
+
 URI: overheid:authority
 
 Range: donl:Agent

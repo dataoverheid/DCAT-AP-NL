@@ -3,6 +3,8 @@ version notes
 
 Property: version notes
 
+Verplichting: optional
+
 URI: adms:versionNotes
 
 Range: Vrije tekst

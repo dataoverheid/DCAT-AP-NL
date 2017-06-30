@@ -3,6 +3,8 @@ related resource
 
 Property: related resource
 
+Verplichting: optional
+
 URI: dct:relation
 
 Range: 

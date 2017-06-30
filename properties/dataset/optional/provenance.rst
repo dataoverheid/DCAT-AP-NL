@@ -3,6 +3,8 @@ provenance
 
 Property: provenance
 
+Verplichting: optional
+
 URI: dct:provenance
 
 Range: 

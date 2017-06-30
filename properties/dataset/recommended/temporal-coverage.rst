@@ -3,6 +3,8 @@ temporal coverage
 
 Property: temporal coverage
 
+Verplichting: recommended
+
 URI: dct:temporal
 
 Range: overheid:Period

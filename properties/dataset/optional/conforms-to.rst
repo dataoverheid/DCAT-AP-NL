@@ -3,6 +3,8 @@ conforms to
 
 Property: conforms to
 
+Verplichting: optional
+
 URI: dct:conformsTo
 
 Range: Vrije tekst

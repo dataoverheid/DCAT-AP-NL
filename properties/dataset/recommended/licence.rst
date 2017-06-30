@@ -3,6 +3,8 @@ licence
 
 Property: licence
 
+Verplichting: recommended
+
 URI: dct:license
 
 Range: Vrije tekst of Waardelijst

@@ -3,6 +3,8 @@ media type
 
 Property: media type
 
+Verplichting: optional
+
 URI: dcat:mediaType
 
 Range: 

@@ -3,6 +3,8 @@ source
 
 Property: source
 
+Verplichting: optional
+
 URI: dct:source
 
 Range: 

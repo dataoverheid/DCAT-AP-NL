@@ -3,6 +3,8 @@ LODStars
 
 Property: LODStars
 
+Verplichting: optional
+
 URI: overheidds:LODStars
 
 Range: overheidds:Stars

@@ -3,6 +3,8 @@ access rights
 
 Property: access rights
 
+Verplichting: optional
+
 URI: dct:accessRights
 
 Range: 

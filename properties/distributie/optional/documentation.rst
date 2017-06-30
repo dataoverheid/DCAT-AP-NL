@@ -3,6 +3,8 @@ documentation
 
 Property: documentation
 
+Verplichting: optional
+
 URI: foaf:page
 
 Range: 

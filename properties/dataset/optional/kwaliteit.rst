@@ -3,6 +3,8 @@ Kwaliteit
 
 Property: Kwaliteit
 
+Verplichting: optional
+
 URI: overheidds:kwaliteit
 
 Range: Vrije tekst

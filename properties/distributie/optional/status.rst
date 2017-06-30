@@ -3,6 +3,8 @@ status
 
 Property: status
 
+Verplichting: optional
+
 URI: adms:status
 
 Range: overheid:Status

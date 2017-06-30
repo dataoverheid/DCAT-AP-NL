@@ -3,6 +3,8 @@ format
 
 Property: format
 
+Verplichting: recommended
+
 URI: dct:format
 
 Range: overheid:FileFormat

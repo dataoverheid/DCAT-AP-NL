@@ -3,6 +3,8 @@ checksum
 
 Property: checksum
 
+Verplichting: optional
+
 URI: spdx:checksum
 
 Range: 

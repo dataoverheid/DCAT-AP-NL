@@ -3,6 +3,8 @@ Grondslag
 
 Property: Grondslag
 
+Verplichting: optional
+
 URI: overheid:grondslag
 
 Range: overheid:Regeling

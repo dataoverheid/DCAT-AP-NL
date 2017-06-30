@@ -3,6 +3,8 @@ version
 
 Property: version
 
+Verplichting: optional
+
 URI: owl:versionInfo
 
 Range: 

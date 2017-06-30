@@ -3,6 +3,8 @@ language
 
 Property: language
 
+Verplichting: optional
+
 URI: dct:language
 
 Range: 

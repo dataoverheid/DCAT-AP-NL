@@ -3,6 +3,8 @@ keyword/tag
 
 Property: keyword/tag
 
+Verplichting: recommended
+
 URI: dcat:keyword
 
 Range: Vrije tekst

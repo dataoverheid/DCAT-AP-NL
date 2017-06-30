@@ -3,6 +3,8 @@ frequency
 
 Property: frequency
 
+Verplichting: optional
+
 URI: dct:accrualPeriodicity
 
 Range: overheid:Frequentie

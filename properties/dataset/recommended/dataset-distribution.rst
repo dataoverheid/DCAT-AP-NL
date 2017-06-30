@@ -3,6 +3,8 @@ dataset distribution
 
 Property: dataset distribution
 
+Verplichting: recommended
+
 URI: dcat:distribution
 
 Range: 

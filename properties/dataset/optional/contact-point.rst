@@ -3,6 +3,8 @@ contact point
 
 Property: contact point
 
+Verplichting: optional
+
 URI: dcat:contactPoint
 
 Range: 

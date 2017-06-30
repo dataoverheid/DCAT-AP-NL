@@ -3,6 +3,8 @@ release date
 
 Property: release date
 
+Verplichting: optional
+
 URI: dct:issued
 
 Range: xs:date

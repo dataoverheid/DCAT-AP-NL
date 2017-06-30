@@ -3,6 +3,8 @@ theme/category
 
 Property: theme/category
 
+Verplichting: recommended
+
 URI: dcat:theme
 
 Range: overheid:TaxonomieBeleidsagenda

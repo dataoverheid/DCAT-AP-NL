@@ -3,6 +3,8 @@ rights
 
 Property: rights
 
+Verplichting: optional
+
 URI: dct:rights
 
 Range: Vrije tekst of URL

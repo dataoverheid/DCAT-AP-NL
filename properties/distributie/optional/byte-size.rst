@@ -3,6 +3,8 @@ byte size
 
 Property: byte size
 
+Verplichting: optional
+
 URI: dcat:byteSize
 
 Range: Vrije tekst

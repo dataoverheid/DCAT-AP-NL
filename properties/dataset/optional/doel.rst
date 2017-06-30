@@ -3,6 +3,8 @@ Doel
 
 Property: Doel
 
+Verplichting: optional
+
 URI: overheidds:doel
 
 Range: Vrije tekst

@@ -3,6 +3,8 @@ download URL
 
 Property: download URL
 
+Verplichting: recommended
+
 URI: dcat:downloadURL
 
 Range: URL

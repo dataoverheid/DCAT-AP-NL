@@ -3,6 +3,8 @@ linked schemas
 
 Property: linked schemas
 
+Verplichting: optional
+
 URI: dct:conformsTo
 
 Range: 

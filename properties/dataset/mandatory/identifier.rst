@@ -3,6 +3,8 @@ identifier
 
 Property: identifier
 
+Verplichting: mandatory
+
 URI: dct:identifier
 
 Range: Vrije tekst

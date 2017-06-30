@@ -3,6 +3,8 @@ type
 
 Property: type
 
+Verplichting: optional
+
 URI: dct:type
 
 Range: 
