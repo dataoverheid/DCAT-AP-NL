@@ -30,4 +30,4 @@ De documentatie is open source en `beschikbaar op GitHub`_. De informatie is ond
   waardelijsten
   namespaces
 
-.. _beschikbaar op GitHub: https://github.com/jcid/dcat-ap-nl
+.. _beschikbaar op GitHub: https://github.com/dataoverheid/DCAT-AP-NL
