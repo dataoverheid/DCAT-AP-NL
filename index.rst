@@ -1,4 +1,4 @@
-Welkom op de DCAT-AP-NL documentatie
+DCAT-AP-NL documentatie
 ====================================
 
 :Date: 2017-06-01
