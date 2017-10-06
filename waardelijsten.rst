@@ -1,8 +1,8 @@
 Waardelijsten
 =============
 
-Reeds gepubliceerd
-------------------
+Standaarden.overheid.nl
+-----------------------
 
 De beschikbare formatten voor de onderstaande waardelijsten zijn
 
@@ -10,25 +10,15 @@ De beschikbare formatten voor de onderstaande waardelijsten zijn
 2. {url-terms}.xml
 3. {url-terms}.rdf
 
-- http://standaarden.overheid.nl/owms/terms/Licentie
-- http://standaarden.overheid.nl/dcatnl/terms/LODSterren
 - http://standaarden.overheid.nl/dcatnl/terms/Distributiestatus
+- http://standaarden.overheid.nl/dcatnl/terms/LODSterren
+- http://standaarden.overheid.nl/owms/terms/Licentie
+- http://standaarden.overheid.nl/owms/terms/TaxonomieBeleidsagenda.html
+- http://standaarden.overheid.nl/owms/terms/Gemeente
+- http://standaarden.overheid.nl/owms/terms/Provincie
 
-In development
---------------
+Het Bureau voor publicaties van de Europese Unie
+------------------------------------------------
 
-- http://api.data.overheid.nl:8000/v2.0.0/access-right.json
-- http://api.data.overheid.nl:8000/v2.0.0/donl-themes.json
-- http://api.data.overheid.nl:8000/v2.0.0/filetypes.json
-- http://api.data.overheid.nl:8000/v2.0.0/frequency.json
-- http://api.data.overheid.nl:8000/v2.0.0/languages.json
-- http://api.data.overheid.nl:8000/v2.0.0/organisations.json
-  - http://api.data.overheid.nl:8000/v2.0.0/organisations-gemeente.json
-  - http://api.data.overheid.nl:8000/v2.0.0/organisations-provincie.json
-
-.. toctree::
-  :maxdepth: 2
-
-  catalogus
-  dataset
-  distributie
+- http://publications.europa.eu/mdr/authority/file-type/index.html
+- http://publications.europa.eu/mdr/resource/authority/language/html/languages-eng.html

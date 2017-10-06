@@ -9,7 +9,7 @@ URI: dct:accrualPeriodicity
 
 Range: overheid:Frequentie
 
-Waardelijst: http://api.data.overheid.nl:8000/v2.0.0/frequency.json
+Waardelijst: http://standaarden.overheid.nl/owms/terms/Frequentie
 
 Usage note: This property refers to the frequency at which the Dataset is updated.
 
