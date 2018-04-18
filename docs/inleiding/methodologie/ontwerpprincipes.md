@@ -1,6 +1,0 @@
-- DCAT-AP-NL moet zo eenvoudig mogelijk toepasbaar zijn door data-portalen, catalogi van datasets en metadata-brokers in Nederland.
-- Wijk niet zonder reden af van de specificaties van DCAT en DCAT-AP-EU.
-- DCAT-AP-NL volgt OWMS, dus conformiteit aan DCAT-AP-NL betekent automatisch conformiteit met OWMS.
-- Het toepassingsprofiel houdt rekening met specificaties in andere standaarden voor Datasets, met name die van het Nederlands toepassingsprofiel voor Geo-data: ISO 19115. Conformiteit aan DCAT-AP-NL betekent niet automatisch ook conformiteit aan deze standaarden.
-- Op data.overheid.nl, het Open Data portaal van de Nederlandse overheid worden referentiegegevens beschikbaar gesteld. Toepassers van DCAT-AP-NL maken gebruik van deze referentiegegevens indien van toepassing maar kunnen daarvan afwijken als deze referentiegegevens niet toereikend zijn in hun situatie.
-- Applicaties die conform DCAT-AP-NL zijn opgezet kunnen onderling beschrijvingen van Datasets aanbieden en ontvangen zoals beschreven in de sectie ‘Terminologie’. In combinatie met informatie op data.overheid.nl kunnen applicaties conform DCAT-AP-EU data aanbieden. Dit betekent dat bijvoorbeeld de datacatalogus op data.overheid.nl wel DCAT-AP-EU compliant kan zijn, maar dat er ook DCAT-AP-NL compliant applicaties kunnen zijn die niet DCAT-AP-EU compliant zijn.
