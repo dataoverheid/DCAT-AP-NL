@@ -1,3 +1,7 @@
+# DCAT-AP-NL, een IPM voor Datasets
+
+*Uitwisseling van metadata tussen (open) datacatalogi*
+
 # Inleiding
 
 Dit document is opgesteld in de context van het Open Data NEXT programma van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties. Het beschrijft het Nederlands toepassingsprofiel van de Data Catalogue Vocabulary van het W3C (DCAT). Dit Informatie Publicatiemodel (IPM) voor datasets specificeert een standaard voor de online uitwisseling van metadata tussen Nederlandse data-catalogi, zoals: data.overheid.nl, het Nationaal Georegister (NGR) en bijvoorbeeld ook de (open) data catalogi van gemeenten en provincies.
