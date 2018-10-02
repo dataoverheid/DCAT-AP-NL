@@ -1,9 +1,12 @@
-# Linked Data Theatre
+# DCAT-AP-NL: DCAT Applicatieprofiel voor Nederland
 
-Het LDT (Linked Data Theatre) wordt gebruikt voor de omzetting van het [DCAT-AP-NL-Profile.xlsx](https://github.com/dataoverheid/DCAT-AP-NL/raw/master/DCAT-AP-NL-Profile.xlsx) bestand naar een:
+Deze github repository wordt gebruikt voor het bijhouden van DCAT-AP-NL. Het bevat de meest actuele redactieversie, inclusief specifieke gepubliceerde versies.
+
+Het profiel wordt bijgehouden in een  [DCAT-AP-NL-Profile.xlsx](https://github.com/dataoverheid/DCAT-AP-NL/raw/master/DCAT-AP-NL-Profile.xlsx) bestand. Vervolgens wordt het Linked Data Theatre gebruikt voor de generatie van de publicatiebestanden:
+
 1. [Markdown documentatie](https://github.com/dataoverheid/DCAT-AP-NL/blob/master/docs/model.md)
 1. [Shacl shapes bestand](https://github.com/dataoverheid/DCAT-AP-NL/blob/master/dcat-ap-nl-shacl.ttl)
-1. [Grafische visualisatie](https://raw.githubusercontent.com/dataoverheid/DCAT-AP-NL/master/dcat-ap-nl-profile.png)
+1. [Grafische visualisatie](https://raw.githubusercontent.com/dataoverheid/DCAT-AP-NL/master/docs/dcat-ap-nl-profile.png)
 
 [De configuratie voor het Linked Data Theatre](https://github.com/bp4mc2/bp4mc2-dcat/tree/master/ldt-config) is op dit moment onderdeel van de configuratie van DCAT profielen in het algemeen.
 
@@ -25,7 +28,7 @@ De installatie kan worden uitgevoerd door het [config.zip](https://github.com/bp
     1. [Markdown specificatie document](http://linkeddata.ordina.nl/modeling/query/query/profiel-doc.md)
     1. [SHACL turtle specificatie](http://linkeddata.ordina.nl/modeling/query/query/profiel-vocabulaire.ttl)
     1. [Grafische weergave](http://linkeddata.ordina.nl/modeling/query/query/profiel-vocabulaire?format=yed)
-   
+
     De grafische weergave vereist het gebruik van het [yEd open source tool](https://www.yworks.com/downloads#yEd).
 
 1. [Upload](https://github.com/dataoverheid/DCAT-AP-NL/upload/master) (of commit) deze wijzigingen naar Github
