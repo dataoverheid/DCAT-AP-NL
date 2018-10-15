@@ -1261,7 +1261,6 @@ n14:Kind_title a ns2:PropertyShape;
 .
 n14:Legislation a ns2:NodeShape;
     ns2:name "overheid:Regeling"^^xsd:string;
-    ns2:property n14:Legislation_juriconnectreference;
     ns2:property n14:Legislation_linktekst;
     ns2:property n14:Legislation_page;
     ns2:targetClass <http://standaarden.overheid.nl/owms/terms/Regeling>;
@@ -1269,25 +1268,13 @@ n14:Legislation a ns2:NodeShape;
     rdfs:label "Regeling"@nl;
     rdfs:label "Legislation"@en
 .
-n14:Legislation_juriconnectreference a ns2:PropertyShape;
-    ns2:class <http://standaarden.overheid.nl/owms/terms/Juriconnectverwijzing>;
-    ns2:maxCount 1;
-    ns2:minCount 1;
-    ns2:name "overheid:juriconnectverwijzing"^^xsd:string;
-    ns2:path <http://standaarden.overheid.nl/owms/terms/juriconnectverwijzing>;
-    ns2:severity ns2:Violation;
-    ns4:cardinality "1..1"^^xsd:string;
-    ns4:index 89;
-    rdfs:label "verwijzing"@nl;
-    rdfs:label "juriconnect reference"@en
-.
 n14:Legislation_linktekst a ns2:PropertyShape;
     ns2:class rdfs:Literal;
     ns2:datatype xsd:string;
     ns2:maxCount 1;
     ns2:minCount 1;
-    ns2:name "overheid:linktekst"^^xsd:string;
-    ns2:path <http://standaarden.overheid.nl/owms/terms/linktekst>;
+    ns2:name "rdfs:label"^^xsd:string;
+    ns2:path "label"^^xsd:string;
     ns2:severity ns2:Violation;
     ns4:cardinality "1..1"^^xsd:string;
     ns4:index 91;
@@ -1298,13 +1285,13 @@ n14:Legislation_page a ns2:PropertyShape;
     ns2:class foaf:Document;
     ns2:maxCount 1;
     ns2:minCount 1;
-    ns2:name "foaf:page"^^xsd:string;
-    ns2:path foaf:page;
+    ns2:name "foaf:isPrimaryTopicOf"^^xsd:string;
+    ns2:path foaf:isPrimaryTopicOf;
     ns2:severity ns2:Violation;
     ns4:cardinality "1..1"^^xsd:string;
     ns4:index 90;
     rdfs:label "page"@en;
-    rdfs:label "url"@nl
+    rdfs:label "link"@nl
 .
 n14:Licencedocument a ns2:NodeShape;
     ns2:name "dct:LicenseDocument"^^xsd:string;
@@ -1362,13 +1349,13 @@ n4:time a ns2:PropertyShape;
 n3:Accesright a ns2:NodeShape;
     ns2:name "Acces right (skos:Concept)"^^xsd:string;
     ns2:property [
-        ns2:path skos:inScheme;
-        ns2:hasValue <http://publications.europa.eu/mdr/authority/access-right/>
-    ];
-    ns2:property [
         ns2:name "role";
         ns2:path rdf:type;
         ns2:hasValue skos:Concept
+    ];
+    ns2:property [
+        ns2:path skos:inScheme;
+        ns2:hasValue <http://publications.europa.eu/mdr/authority/access-right/>
     ];
     rdfs:label "Acces right"@en;
     rdfs:label "Toegangsrecht"@nl
@@ -1376,13 +1363,13 @@ n3:Accesright a ns2:NodeShape;
 n3:Changetype a ns2:NodeShape;
     ns2:name "Change type (skos:Concept)"^^xsd:string;
     ns2:property [
+        ns2:path skos:inScheme;
+        ns2:hasValue n2:1.0
+    ];
+    ns2:property [
         ns2:name "role";
         ns2:path rdf:type;
         ns2:hasValue skos:Concept
-    ];
-    ns2:property [
-        ns2:path skos:inScheme;
-        ns2:hasValue n2:1.0
     ];
     rdfs:label "Wijzigingstype"@nl;
     rdfs:label "Change type"@en
@@ -1455,13 +1442,13 @@ n3:Licencedocument a ns2:NodeShape;
 n3:Licencetype a ns2:NodeShape;
     ns2:name "Licence type (skos:Concept)"^^xsd:string;
     ns2:property [
+        ns2:path skos:inScheme;
+        ns2:hasValue <http://purl.org/adms/licencetype/1.0>
+    ];
+    ns2:property [
         ns2:name "role";
         ns2:path rdf:type;
         ns2:hasValue skos:Concept
-    ];
-    ns2:property [
-        ns2:path skos:inScheme;
-        ns2:hasValue <http://purl.org/adms/licencetype/1.0>
     ];
     rdfs:label "Licentietype"@nl;
     rdfs:label "Licence type"@en
@@ -1492,13 +1479,13 @@ n3:Organisation a ns2:NodeShape;
 n3:Publishertype a ns2:NodeShape;
     ns2:name "Publisher type (skos:Concept)"^^xsd:string;
     ns2:property [
-        ns2:path skos:inScheme;
-        ns2:hasValue <http://purl.org/adms/publishertype/>
-    ];
-    ns2:property [
         ns2:name "role";
         ns2:path rdf:type;
         ns2:hasValue skos:Concept
+    ];
+    ns2:property [
+        ns2:path skos:inScheme;
+        ns2:hasValue <http://purl.org/adms/publishertype/>
     ];
     rdfs:label "Verstrekkertype"@nl;
     rdfs:label "Publisher type"@en
@@ -1506,13 +1493,13 @@ n3:Publishertype a ns2:NodeShape;
 n3:Status a ns2:NodeShape;
     ns2:name "Status (skos:Concept)"^^xsd:string;
     ns2:property [
-        ns2:path skos:inScheme;
-        ns2:hasValue n1:1.0
-    ];
-    ns2:property [
         ns2:name "role";
         ns2:path rdf:type;
         ns2:hasValue skos:Concept
+    ];
+    ns2:property [
+        ns2:path skos:inScheme;
+        ns2:hasValue n1:1.0
     ];
     rdfs:label "Status"@nl;
     rdfs:label "Status"@en
