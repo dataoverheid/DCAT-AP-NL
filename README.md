@@ -1,6 +1,9 @@
-# DCAT-AP-NL: DCAT Applicatieprofiel voor Nederland
+# Archief
 
-Deze github repository wordt gebruikt voor het bijhouden van DCAT-AP-NL. Het bevat de meest actuele redactieversie, inclusief specifieke gepubliceerde versies.
+Deze github repository werd gebruikt voor het bijhouden van DCAT-AP-NL 1. De meest recente versie van DCAT is [DCAT-AP-NL 3.0](https://docs.geostandaarden.nl/dcat/dcat-ap-nl30/) 
+
+
+.
 
 Het profiel wordt bijgehouden in een  [DCAT-AP-NL-Profile.xlsx](https://github.com/dataoverheid/DCAT-AP-NL/raw/master/DCAT-AP-NL-Profile.xlsx) bestand. Vervolgens wordt het Linked Data Theatre gebruikt voor de generatie van de publicatiebestanden:
 
